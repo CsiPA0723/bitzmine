@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "VanillaPlus - Bits Edition",
-  "version": "0.0.1",
+  "version": "0.0.1a",
   "author": "",
   "files": [
     {
@@ -92,6 +92,11 @@
     {
       "projectID": 422301,
       "fileID": 3699216,
+      "required": true
+    },
+    {
+      "projectID": 496392,
+      "fileID": 3551472,
       "required": true
     },
     {
@@ -206,7 +211,7 @@
     },
     {
       "projectID": 324973,
-      "fileID": 3722775,
+      "fileID": 3766138,
       "required": true
     },
     {
