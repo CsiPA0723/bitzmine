@@ -1,1 +1,1 @@
-# vanillaplus-bitz-edition
+# Welcome to the *VanillaPlus - Bitz Edition* modpack Repository
