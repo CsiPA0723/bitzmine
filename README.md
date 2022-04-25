@@ -1,6 +1,6 @@
 # Welcome to the `BitzMine` modpack Repository
 
-This pack is expanding the vanilla experience by focusing on the Create and Farmer's Delight mods.
+This pack is expanding the vanilla experience by focusing on the **Create** and **Farmer's Delight** mods.
 You can find some additional Quality of Life improvement mods as well.
 
 Recommended RAM: **4-6 GB**
