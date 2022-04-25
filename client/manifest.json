@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "VanillaPlus - Bits Edition",
-  "version": "0.0.1a",
+  "version": "0.0.3",
   "author": "",
   "files": [
     {
@@ -55,6 +55,11 @@
       "required": true
     },
     {
+      "projectID": 551453,
+      "fileID": 3740887,
+      "required": true
+    },
+    {
       "projectID": 237307,
       "fileID": 3738144,
       "required": true
@@ -67,6 +72,11 @@
     {
       "projectID": 319194,
       "fileID": 3759157,
+      "required": true
+    },
+    {
+      "projectID": 261837,
+      "fileID": 3703928,
       "required": true
     },
     {
@@ -97,6 +107,11 @@
     {
       "projectID": 496392,
       "fileID": 3551472,
+      "required": true
+    },
+    {
+      "projectID": 496394,
+      "fileID": 3756127,
       "required": true
     },
     {
@@ -175,6 +190,11 @@
       "required": true
     },
     {
+      "projectID": 577805,
+      "fileID": 3766011,
+      "required": true
+    },
+    {
       "projectID": 314906,
       "fileID": 3725654,
       "required": true
@@ -187,6 +207,11 @@
     {
       "projectID": 396234,
       "fileID": 3683674,
+      "required": true
+    },
+    {
+      "projectID": 535489,
+      "fileID": 3680800,
       "required": true
     },
     {
@@ -237,6 +262,11 @@
     {
       "projectID": 244786,
       "fileID": 3765390,
+      "required": true
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3765351,
       "required": true
     },
     {
@@ -326,7 +356,7 @@
     },
     {
       "projectID": 231484,
-      "fileID": 3684744,
+      "fileID": 3767681,
       "required": true
     },
     {
@@ -350,13 +380,13 @@
       "required": true
     },
     {
-      "projectID": 238747,
-      "fileID": 3574005,
+      "projectID": 499980,
+      "fileID": 3767651,
       "required": true
     },
     {
-      "projectID": 499980,
-      "fileID": 3764884,
+      "projectID": 238747,
+      "fileID": 3574005,
       "required": true
     },
     {
@@ -367,6 +397,11 @@
     {
       "projectID": 248787,
       "fileID": 3686482,
+      "required": true
+    },
+    {
+      "projectID": 517272,
+      "fileID": 3766013,
       "required": true
     },
     {
@@ -381,7 +416,7 @@
     },
     {
       "projectID": 531761,
-      "fileID": 3710117,
+      "fileID": 3767671,
       "required": true
     },
     {
@@ -440,18 +475,23 @@
       "required": true
     },
     {
+      "projectID": 320163,
+      "fileID": 3757530,
+      "required": true
+    },
+    {
       "projectID": 400933,
       "fileID": 3682901,
       "required": true
     },
     {
-      "projectID": 242195,
-      "fileID": 3753813,
+      "projectID": 327968,
+      "fileID": 3681801,
       "required": true
     },
     {
-      "projectID": 372534,
-      "fileID": 3740562,
+      "projectID": 242195,
+      "fileID": 3753813,
       "required": true
     },
     {
@@ -462,6 +502,11 @@
     {
       "projectID": 393149,
       "fileID": 3683668,
+      "required": true
+    },
+    {
+      "projectID": 368098,
+      "fileID": 3766010,
       "required": true
     },
     {
@@ -505,6 +550,11 @@
       "required": true
     },
     {
+      "projectID": 528005,
+      "fileID": 3549789,
+      "required": true
+    },
+    {
       "projectID": 252848,
       "fileID": 3684917,
       "required": true
@@ -542,6 +592,11 @@
     {
       "projectID": 281274,
       "fileID": 3735573,
+      "required": true
+    },
+    {
+      "projectID": 541951,
+      "fileID": 3751480,
       "required": true
     },
     {
