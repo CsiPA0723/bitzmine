@@ -13,5 +13,7 @@ Things to do in this pack:
 - Some light exploration is available with **Dungeon Crawl** and **Biomes O'Plenty** mods.
 - A lot more blocks and items to use and build with.
 
+You can use **OptiFine** with this pack.
+
 We do not own the mods in this pack.
 If you are the owner and you would like to remove it from this pack, please tell me.
