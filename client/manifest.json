@@ -10,9 +10,9 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "VanillaPlus - Bits Edition",
-  "version": "0.0.3",
-  "author": "",
+  "name": "BitzMine",
+  "version": "0.0.4",
+  "author": "CsiPA0723",
   "files": [
     {
       "projectID": 240630,
@@ -91,7 +91,7 @@
     },
     {
       "projectID": 367706,
-      "fileID": 3758542,
+      "fileID": 3769217,
       "required": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "projectID": 297039,
-      "fileID": 3726039,
+      "fileID": 3769155,
       "required": true
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3765730,
+      "fileID": 3768609,
       "required": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 3756221,
+      "fileID": 3769099,
       "required": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 3757476,
+      "fileID": 3768269,
       "required": true
     },
     {
@@ -536,7 +536,7 @@
     },
     {
       "projectID": 231095,
-      "fileID": 3758387,
+      "fileID": 3768689,
       "required": true
     },
     {
