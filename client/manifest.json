@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "BitzMine",
-  "version": "0.0.4",
+  "version": "0.0.4a",
   "author": "CsiPA0723",
   "files": [
     {
@@ -271,7 +271,7 @@
     },
     {
       "projectID": 243121,
-      "fileID": 3769099,
+      "fileID": 3769911,
       "required": true
     },
     {
@@ -392,7 +392,7 @@
     {
       "projectID": 288885,
       "fileID": 3717873,
-      "required": true
+      "required": false
     },
     {
       "projectID": 248787,
@@ -462,7 +462,7 @@
     {
       "projectID": 299540,
       "fileID": 3717883,
-      "required": true
+      "required": false
     },
     {
       "projectID": 71738,
