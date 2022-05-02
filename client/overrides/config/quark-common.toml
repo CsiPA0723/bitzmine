@@ -1521,6 +1521,7 @@
 	"Narrator Readout" = false
 	"Game Nerfs" = false
 	"Adjustable Chat" = false
+	"Zombie Villagers On Normal" = false
 
 	[experimental.spawner_replacer]
 		#Mobs to be replaced with other mobs.
